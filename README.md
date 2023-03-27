@@ -1,6 +1,6 @@
 <img src="Images/header.svg" margin="0" padding="0"></img>
 <p align="center" margin="0" padding="0">
-<img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!" width="80%" margin="0" padding="0"></p>
+<!-- <img src="https://user-images.githubusercontent.com/99143307/188203558-ea915ac0-c36e-4c50-8a1a-e23fd686f826.gif" alt="Here is a little bit about me!" width="80%" margin="0" padding="0"></p> -->
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,js,ts,css,scss,angular,nodejs,c#,dotnet,php,git,github,bootstrap,svg,mysql,postman,netlify,figma,idea,visualstudio,vscode&theme=dark&perline=10"/> </p>
@@ -14,7 +14,7 @@
 <br>
 <h2 align="center">My Stats</h2>
 <p align="center">
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2104alexhide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2104alex&hide=html&hide_title=true&layout=compact&langs_count=8&theme=github_dark" /></p>
 <p align="center">
  <img height="180px" src="https://github-readme-stats.vercel.app/api/?username=j2104alex&show_icons=true&theme=github_dark" />  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=j2104alex&theme=github-dark" /> <!--nightowl  chartreuse-dark --> 
 </p>
